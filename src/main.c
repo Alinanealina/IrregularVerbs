@@ -5,7 +5,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <time.h>
-
+#include "k.h"
 
 void menu(int y, int x) {
 
@@ -216,9 +216,10 @@ int main()
 		    	{	
 			    	clear();
 			    	refresh(); 
-                    move(20,size/2 );
-			    	printw ("Play");
-			    	refresh(); 
+			    	echo();
+					attroff(A_BLINK );
+					attron(COLOR_PAIR( 3));
+			    	read_file (); 
 			    	key = getch();
 		    		break;
 		    	}
