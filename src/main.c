@@ -1,4 +1,4 @@
-#include <curses.h> //подключаем библиотеку ncurses
+#include <ncurses.h> //подключаем библиотеку ncurses
 #include <locale.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,10 +20,15 @@ void menu(int y, int x) {
     move(y++, x); printw("| |          | |  | |          |\\_______| |  | |    | |        | |              ");
     move(y++, x); printw("| |          | |  | |          | |      | |  | |    | |        | |              ");
     move(y++, x); printw("| |          | |  |_|______    | |      | |  | |    |_|________| |             ");
-    move(y++, x); printw(" \\|           \\|   \\_______\\    \\|       \\|   \\|    \\___________\\|     ");
+    move(y++, x);
+    printw(
+        " \\|           \\|   \\_______\\    \\|       \\|   \\|    "
+        "\\___________\\|     ");
 }
 
 void play(int y, int x)
+
+
 {
 	move(y++, x); printw("               ___                         ___        __________     _            ");
     move(y++, x); printw("|\\     |\\     |\\__\\       |\\     |\\       |\\__\\       \\___|\\ ___\\   | |           ");
