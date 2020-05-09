@@ -12,7 +12,7 @@ int read_file()
     echo();
     keypad(stdscr, false);
     int x = 5, y = 3;
-    FILE *verb;
+    FILE* verb;
     char ch, answer[20];
     int i, N, A[10], j, k, l;
     srand(time(NULL));
