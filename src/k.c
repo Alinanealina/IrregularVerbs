@@ -74,5 +74,14 @@ int read_file()
         refresh();
     }
     fclose(verb);
+    printw("Result: %d/10\n\t\t\t\t\tEnter your surname: ", result);
+    refresh();
+    restab = fopen("result_table.txt", "a");
+    getstr(surname);
+    refresh();
+    fputs(surname, restab);
+    fprintf(restab, " - %d\n", result);
+    refresh();
+    fclose(restab);
     return 0;
 }
