@@ -7,6 +7,21 @@
 #include <time.h>
 #include <unistd.h>
 
+void check(char answer[20], int* e)
+{
+    for (int er = 0; er < strlen(answer); er++) {
+        if (answer[er] < 97 || answer[er] > 122 || strlen(answer) > 20) {
+            attron(COLOR_PAIR(8));
+            printw("Error comand. Enter again: ");
+            refresh();
+            *e = 1;
+            attroff(COLOR_PAIR(8));
+            break;
+        } else
+            *e = 0;
+    }
+}
+
 int read_file()
 {
     echo();
@@ -49,11 +64,17 @@ int read_file()
         }
         printw(" ");
         refresh();
-        getstr(answer);
+        int e = 1;
+        while (e == 1) {
+            getstr(answer);
+            if (strncmp(answer, "exit", 4) == 0)
+                return 0;
+            check(answer, &e);
+        }
         attroff(A_BLINK);
         len = strlen(answer);
         while ((ch = getc(verb)) != '!') {
-            printw("%c", ch);
+            printw("%c", ch-4);
             refresh();
         }
         y += 7;
