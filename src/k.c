@@ -7,7 +7,7 @@
 #include <time.h>
 #include <unistd.h>
 
-void check(char answer[20], int *e)
+void check(char answer[20], int* e)
 {
     for (int er = 0; er < strlen(answer); er++) {
         if (answer[er] < 97 || answer[er] > 122 || strlen(answer) > 20) {
