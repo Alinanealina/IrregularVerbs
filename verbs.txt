@@ -1,206 +1,206 @@
-﻿#Enter the Past form of the verb be:*Correct answer: was!
-#Enter the Past form of the verb bear:*Correct answer: bore!
-#Enter the Past form of the verb beat:*Correct answer: beat!
-#Enter the Past form of the verb become:*Correct answer: became!
-#Enter the Past form of the verb begin:*Correct answer: began!
-#Enter the Past form of the verb bite:*Correct answer: bit!
-#Enter the Past form of the verb blow:*Correct answer: blew!
-#Enter the Past form of the verb break:*Correct answer: broke!
-#Enter the Past form of the verb bring:*Correct answer: brought!
-#Enter the Past form of the verb build:*Correct answer: built!
-#Enter the Past form of the verb burn:*Correct answer: burnt!
-#Enter the Past form of the verb burst:*Correct answer: burst!
-#Enter the Past form of the verb buy:*Correct answer: bought!
-#Enter the Past Participle form of the verb be:*Correct answer: been!
-#Enter the Past Participle form of the verb bear:*Correct answer: born!
-#Enter the Past Participle form of the verb beat:*Correct answer: beaten!
-#Enter the Past Participle form of the verb become:*Correct answer: become!
-#Enter the Past Participle form of the verb begin:*Correct answer: begun!
-#Enter the Past Participle form of the verb bite:*Correct answer: bitten!
-#Enter the Past Participle form of the verb blow:*Correct answer: blown!
-#Enter the Past Participle form of the verb break:*Correct answer: broken!
-#Enter the Past Participle form of the verb bring:*Correct answer: brought!
-#Enter the Past Participle form of the verb build:*Correct answer: built!
-#Enter the Past Participle form of the verb burn:*Correct answer: burnt!
-#Enter the Past Participle form of the verb burst:*Correct answer: burst!
-#Enter the Past Participle form of the verb buy:*Correct answer: bought!
-#Enter the Past form of the verb can:*Correct answer: could!
-#Enter the Past form of the verb catch:*Correct answer: caught!
-#Enter the Past form of the verb choose:*Correct answer: chose!
-#Enter the Past form of the verb come:*Correct answer: came!
-#Enter the Past form of the verb cost:*Correct answer: cost!
-#Enter the Past form of the verb cut:*Correct answer: bought!
-#Enter the Past Participle form of the verb can:*Correct answer: been able to!
-#Enter the Past Participle form of the verb catch:*Correct answer: caught!
-#Enter the Past Participle form of the verb choose:*Correct answer: chosen!
-#Enter the Past Participle form of the verb come:*Correct answer: come!
-#Enter the Past Participle form of the verb cost:*Correct answer: cost!
-#Enter the Past Participle form of the verb cut:*Correct answer: cut!
-#Enter the Past form of the verb deal:*Correct answer: dealt!
-#Enter the Past form of the verb dig:*Correct answer: dug!
-#Enter the Past form of the verb do:*Correct answer: did!
-#Enter the Past form of the verb draw:*Correct answer: drew!
-#Enter the Past form of the verb dream:*Correct answer: dreamt!
-#Enter the Past form of the verb drink:*Correct answer: drank!
-#Enter the Past form of the verb drive:*Correct answer: drove!
-#Enter the Past Participle form of the verb deal:*Correct answer: dealt!
-#Enter the Past Participle form of the verb dig:*Correct answer: dug!
-#Enter the Past Participle form of the verb do:*Correct answer: done!
-#Enter the Past Participle form of the verb draw:*Correct answer: drawn!
-#Enter the Past Participle form of the verb dream:*Correct answer: dreamt!
-#Enter the Past Participle form of the verb drink:*Correct answer: drunk!
-#Enter the Past Participle form of the verb drive:*Correct answer: driven!
-#Enter the Past form of the verb eat:*Correct answer: ate!
-#Enter the Past Participle form of the verb eat:*Correct answer: eaten!
-#Enter the Past form of the verb fall:*Correct answer: fell!
-#Enter the Past form of the verb feed:*Correct answer: fed!
-#Enter the Past form of the verb feel:*Correct answer: felt!
-#Enter the Past form of the verb fight:*Correct answer: fought!
-#Enter the Past form of the verb find:*Correct answer: found!
-#Enter the Past form of the verb fly:*Correct answer: flew!
-#Enter the Past form of the verb forbid:*Correct answer: forbade!
-#Enter the Past form of the verb forget:*Correct answer: forgot!
-#Enter the Past form of the verb forgive:*Correct answer: forgave!
-#Enter the Past form of the verb freeze:*Correct answer: froze!
-#Enter the Past Participle form of the verb fall:*Correct answer: fallen!
-#Enter the Past Participle form of the verb feed:*Correct answer: fed!
-#Enter the Past Participle form of the verb feel:*Correct answer: felt!
-#Enter the Past Participle form of the verb fight:*Correct answer: fought!
-#Enter the Past Participle form of the verb find:*Correct answer: found!
-#Enter the Past Participle form of the verb fly:*Correct answer: flown!
-#Enter the Past Participle form of the verb forbid:*Correct answer: forbidden!
-#Enter the Past Participle form of the verb forget:*Correct answer: forgotten!
-#Enter the Past Participle form of the verb forgive:*Correct answer: forgiven!
-#Enter the Past Participle form of the verb freeze:*Correct answer: frozen!
-#Enter the Past form of the verb get:*Correct answer: got!
-#Enter the Past form of the verb give:*Correct answer: gave!
-#Enter the Past form of the verb go:*Correct answer: went!
-#Enter the Past form of the verb grow:*Correct answer: grew!
-#Enter the Past Participle form of the verb get:*Correct answer: got!
-#Enter the Past Participle form of the verb give:*Correct answer: given!
-#Enter the Past Participle form of the verb go:*Correct answer: gone!
-#Enter the Past Participle form of the verb grow:*Correct answer: grown!
-#Enter the Past form of the verb hang:*Correct answer: hung!
-#Enter the Past form of the verb have:*Correct answer: had!
-#Enter the Past form of the verb hear:*Correct answer: heard!
-#Enter the Past form of the verb hide:*Correct answer: hid!
-#Enter the Past form of the verb hit:*Correct answer: hit!
-#Enter the Past form of the verb hold:*Correct answer: held!
-#Enter the Past form of the verb hurt:*Correct answer: hurt!
-#Enter the Past Participle form of the verb hang:*Correct answer: hung!
-#Enter the Past Participle form of the verb have:*Correct answer: had!
-#Enter the Past Participle form of the verb hear:*Correct answer: heard!
-#Enter the Past Participle form of the verb hide:*Correct answer: hidden!
-#Enter the Past Participle form of the verb hit:*Correct answer: hit!
-#Enter the Past Participle form of the verb hold:*Correct answer: held!
-#Enter the Past Participle form of the verb hurt:*Correct answer: hurt!
-#Enter the Past form of the verb keep:*Correct answer: kept!
-#Enter the Past form of the verb know:*Correct answer: knew!
-#Enter the Past Participle form of the verb keep:*Correct answer: kept!
-#Enter the Past Participle form of the verb know:*Correct answer: known!
-#Enter the Past form of the verb lead:*Correct answer: led!
-#Enter the Past form of the verb learn:*Correct answer: learnt!
-#Enter the Past form of the verb leave:*Correct answer: left!
-#Enter the Past form of the verb lend:*Correct answer: lent!
-#Enter the Past form of the verb let:*Correct answer: let!
-#Enter the Past form of the verb light:*Correct answer: lit!
-#Enter the Past form of the verb lose:*Correct answer: lost!
-#Enter the Past Participle form of the verb lead:*Correct answer: led!
-#Enter the Past Participle form of the verb learn:*Correct answer: learnt!
-#Enter the Past Participle form of the verb leave:*Correct answer: left!
-#Enter the Past Participle form of the verb lend:*Correct answer: lent!
-#Enter the Past Participle form of the verb let:*Correct answer: let!
-#Enter the Past Participle form of the verb light:*Correct answer: lit!
-#Enter the Past Participle form of the verb lose:*Correct answer: lost!
-#Enter the Past form of the verb make:*Correct answer: made!
-#Enter the Past form of the verb mean:*Correct answer: meant!
-#Enter the Past form of the verb meet:*Correct answer: met!
-#Enter the Past Participle form of the verb make:*Correct answer: made!
-#Enter the Past Participle form of the verb mean:*Correct answer: meant!
-#Enter the Past Participle form of the verb meet:*Correct answer: met!
-#Enter the Past form of the verb pay:*Correct answer: paid!
-#Enter the Past form of the verb put:*Correct answer: put!
-#Enter the Past Participle form of the verb pay:*Correct answer: paid!
-#Enter the Past Participle form of the verb put:*Correct answer: put!
-#Enter the Past Participle form of the verb read:*Correct answer: read!
-#Enter the Past Participle form of the verb ride:*Correct answer: rode!
-#Enter the Past Participle form of the verb ring:*Correct answer: rang!
-#Enter the Past Participle form of the verb rise:*Correct answer: rose!
-#Enter the Past Participle form of the verb run:*Correct answer: ran!
-#Enter the Past Participle form of the verb read:*Correct answer: read!
-#Enter the Past Participle form of the verb ride:*Correct answer: ridden!
-#Enter the Past Participle form of the verb ring:*Correct answer: rung!
-#Enter the Past Participle form of the verb rise:*Correct answer: risen!
-#Enter the Past Participle form of the verb run:*Correct answer: run!
-#Enter the Past form of the verb say:*Correct answer: said!
-#Enter the Past form of the verb see:*Correct answer: saw!
-#Enter the Past form of the verb sell:*Correct answer: sold!
-#Enter the Past form of the verb send:*Correct answer: sent!
-#Enter the Past form of the verb set:*Correct answer: set!
-#Enter the Past form of the verb sew:*Correct answer: sewed!
-#Enter the Past form of the verb shake:*Correct answer: shook!
-#Enter the Past form of the verb shine:*Correct answer: shone!
-#Enter the Past form of the verb shoot:*Correct answer: shot!
-#Enter the Past form of the verb show:*Correct answer: showed!
-#Enter the Past form of the verb shut:*Correct answer: shut!
-#Enter the Past form of the verb sing:*Correct answer: sang!
-#Enter the Past form of the verb sit:*Correct answer: sat!
-#Enter the Past form of the verb sleep:*Correct answer: slept!
-#Enter the Past form of the verb smell:*Correct answer: smelt!
-#Enter the Past form of the verb speak:*Correct answer: spoke!
-#Enter the Past form of the verb spell:*Correct answer: spelt!
-#Enter the Past form of the verb spend:*Correct answer: spent!
-#Enter the Past form of the verb stand:*Correct answer: stood!
-#Enter the Past form of the verb steal:*Correct answer: stole!
-#Enter the Past form of the verb stick:*Correct answer: stuck!
-#Enter the Past form of the verb sting:*Correct answer: stung!
-#Enter the Past form of the verb swear:*Correct answer: swore!
-#Enter the Past form of the verb sweep:*Correct answer: swept!
-#Enter the Past form of the verb swim:*Correct answer: swam!
-#Enter the Past Participle form of the verb say:*Correct answer: said!
-#Enter the Past Participle form of the verb see:*Correct answer: seen!
-#Enter the Past Participle form of the verb sell:*Correct answer: sold!
-#Enter the Past Participle form of the verb send:*Correct answer: sent!
-#Enter the Past Participle form of the verb set:*Correct answer: set!
-#Enter the Past Participle form of the verb sew:*Correct answer: sewn!
-#Enter the Past Participle form of the verb shake:*Correct answer: shaken!
-#Enter the Past Participle form of the verb shine:*Correct answer: shone!
-#Enter the Past Participle form of the verb shoot:*Correct answer: shot!
-#Enter the Past Participle form of the verb show:*Correct answer: shown!
-#Enter the Past Participle form of the verb shut:*Correct answer: shut!
-#Enter the Past Participle form of the verb sing:*Correct answer: sung!
-#Enter the Past Participle form of the verb sit:*Correct answer: sat!
-#Enter the Past Participle form of the verb sleep:*Correct answer: slept!
-#Enter the Past Participle form of the verb smell:*Correct answer: smelt!
-#Enter the Past Participle form of the verb speak:*Correct answer: spoken!
-#Enter the Past Participle form of the verb spell:*Correct answer: spelt!
-#Enter the Past Participle form of the verb spend:*Correct answer: spent!
-#Enter the Past Participle form of the verb stand:*Correct answer: stood!
-#Enter the Past Participle form of the verb steal:*Correct answer: stolen!
-#Enter the Past Participle form of the verb stick:*Correct answer: stuck!
-#Enter the Past Participle form of the verb sting:*Correct answer: stung!
-#Enter the Past Participle form of the verb swear:*Correct answer: sworm!
-#Enter the Past Participle form of the verb sweep:*Correct answer: swept!
-#Enter the Past Participle form of the verb swim:*Correct answer: swum!
-#Enter the Past form of the verb take:*Correct answer: took!
-#Enter the Past form of the verb teach:*Correct answer: taught!
-#Enter the Past form of the verb tear:*Correct answer: tore!
-#Enter the Past form of the verb tell:*Correct answer: told!
-#Enter the Past form of the verb think:*Correct answer: thought!
-#Enter the Past form of the verb throw:*Correct answer: threw!
-#Enter the Past Participle form of the verb take:*Correct answer: taken!
-#Enter the Past Participle form of the verb teach:*Correct answer: taught!
-#Enter the Past Participle form of the verb tear:*Correct answer: torn!
-#Enter the Past Participle form of the verb tell:*Correct answer: told!
-#Enter the Past Participle form of the verb think:*Correct answer: thought!
-#Enter the Past Participle form of the verb throw:*Correct answer: thrown!
-#Enter the Past form of the verb understand:*Correct answer: understood!
-#Enter the Past Participle form of the verb understand:*Correct answer: understood!
-#Enter the Past form of the verb wake:*Correct answer: woke!
-#Enter the Past form of the verb wear:*Correct answer: wore!
-#Enter the Past form of the verb win:*Correct answer: won!
-#Enter the Past form of the verb write:*Correct answer: wrote!
-#Enter the Past Participle form of the verb wake:*Correct answer: woken!
-#Enter the Past Participle form of the verb wear:*Correct answer: worn!
-#Enter the Past Participle form of the verb win:*Correct answer: won!
-#Enter the Past Participle form of the verb write:*Correct answer: written!
+﻿#Enter the Past form of the verb be:*Gsvvigx$erw{iv>${ew!
+#Enter the Past form of the verb bear:*Gsvvigx$erw{iv>$fsvi!
+#Enter the Past form of the verb beat:*Gsvvigx$erw{iv>$fiex!
+#Enter the Past form of the verb become:*Gsvvigx$erw{iv>$figeqi!
+#Enter the Past form of the verb begin:*Gsvvigx$erw{iv>$fiker!
+#Enter the Past form of the verb bite:*Gsvvigx$erw{iv>$fmx!
+#Enter the Past form of the verb blow:*Gsvvigx$erw{iv>$fpi{!
+#Enter the Past form of the verb break:*Gsvvigx$erw{iv>$fvsoi!
+#Enter the Past form of the verb bring:*Gsvvigx$erw{iv>$fvsyklx!
+#Enter the Past form of the verb build:*Gsvvigx$erw{iv>$fympx!
+#Enter the Past form of the verb burn:*Gsvvigx$erw{iv>$fyvrx!
+#Enter the Past form of the verb burst:*Gsvvigx$erw{iv>$fyvwx!
+#Enter the Past form of the verb buy:*Gsvvigx$erw{iv>$fsyklx!
+#Enter the Past Participle form of the verb be:*Gsvvigx$erw{iv>$fiir!
+#Enter the Past Participle form of the verb bear:*Gsvvigx$erw{iv>$fsvr!
+#Enter the Past Participle form of the verb beat:*Gsvvigx$erw{iv>$fiexir!
+#Enter the Past Participle form of the verb become:*Gsvvigx$erw{iv>$figsqi!
+#Enter the Past Participle form of the verb begin:*Gsvvigx$erw{iv>$fikyr!
+#Enter the Past Participle form of the verb bite:*Gsvvigx$erw{iv>$fmxxir!
+#Enter the Past Participle form of the verb blow:*Gsvvigx$erw{iv>$fps{r!
+#Enter the Past Participle form of the verb break:*Gsvvigx$erw{iv>$fvsoir!
+#Enter the Past Participle form of the verb bring:*Gsvvigx$erw{iv>$fvsyklx!
+#Enter the Past Participle form of the verb build:*Gsvvigx$erw{iv>$fympx!
+#Enter the Past Participle form of the verb burn:*Gsvvigx$erw{iv>$fyvrx!
+#Enter the Past Participle form of the verb burst:*Gsvvigx$erw{iv>$fyvwx!
+#Enter the Past Participle form of the verb buy:*Gsvvigx$erw{iv>$fsyklx!
+#Enter the Past form of the verb can:*Gsvvigx$erw{iv>$gsyph!
+#Enter the Past form of the verb catch:*Gsvvigx$erw{iv>$geyklx!
+#Enter the Past form of the verb choose:*Gsvvigx$erw{iv>$glswi!
+#Enter the Past form of the verb come:*Gsvvigx$erw{iv>$geqi!
+#Enter the Past form of the verb cost:*Gsvvigx$erw{iv>$gswx!
+#Enter the Past form of the verb cut:*Gsvvigx$erw{iv>$fsyklx!
+#Enter the Past Participle form of the verb can:*Gsvvigx$erw{iv>$fiir$efpi$xs!
+#Enter the Past Participle form of the verb catch:*Gsvvigx$erw{iv>$cgeyklx!
+#Enter the Past Participle form of the verb choose:*Gsvvigx$erw{iv>$glswir!
+#Enter the Past Participle form of the verb come:*Gsvvigx$erw{iv>$gsqi!
+#Enter the Past Participle form of the verb cost:*Gsvvigx$erw{iv>$gswx!
+#Enter the Past Participle form of the verb cut:*Gsvvigx$erw{iv>$gyx!
+#Enter the Past form of the verb deal:*Gsvvigx$erw{iv>$dhiepxt!
+#Enter the Past form of the verb dig:*Gsvvigx$erw{iv>$hyk!
+#Enter the Past form of the verb do:*Gsvvigx$erw{iv>$hmh!
+#Enter the Past form of the verb draw:*Gsvvigx$erw{iv>$hvi{!
+#Enter the Past form of the verb dream:*Gsvvigx$erw{iv>$hvieqx!
+#Enter the Past form of the verb drink:*Gsvvigx$erw{iv>$hvero!
+#Enter the Past form of the verb drive:*Gsvvigx$erw{iv>$hvszi!
+#Enter the Past Participle form of the verb deal:*Gsvvigx$erw{iv>$hiepx!
+#Enter the Past Participle form of the verb dig:*Gsvvigx$erw{iv>$hyk!
+#Enter the Past Participle form of the verb do:*Gsvvigx$erw{iv>$hsri!
+#Enter the Past Participle form of the verb draw:*Gsvvigx$erw{iv>$hve{r!
+#Enter the Past Participle form of the verb dream:*Gsvvigx$erw{iv>$hvieqx!
+#Enter the Past Participle form of the verb drink:*Gsvvigx$erw{iv>$hvyro!
+#Enter the Past Participle form of the verb drive:*Gsvvigx$erw{iv>$hvmzir!
+#Enter the Past form of the verb eat:*Gsvvigx$erw{iv>$exi!
+#Enter the Past Participle form of the verb eat:*Gsvvigx$erw{iv>$iexir!
+#Enter the Past form of the verb fall:*Gsvvigx$erw{iv>$jipp!
+#Enter the Past form of the verb feed:*Gsvvigx$erw{iv>$jih!
+#Enter the Past form of the verb feel:*Gsvvigx$erw{iv>$jipx!
+#Enter the Past form of the verb fight:*Gsvvigx$erw{iv>$jsyklx!
+#Enter the Past form of the verb find:*Gsvvigx$erw{iv>$jsyrh!
+#Enter the Past form of the verb fly:*Gsvvigx$erw{iv>$jpi{!
+#Enter the Past form of the verb forbid:*Gsvvigx$erw{iv>$jsvfehi!
+#Enter the Past form of the verb forget:*Gsvvigx$erw{iv>$jsvksx!
+#Enter the Past form of the verb forgive:*Gsvvigx$erw{iv>$jsvkezi!
+#Enter the Past form of the verb freeze:*Gsvvigx$erw{iv>$jvs~i!
+#Enter the Past Participle form of the verb fall:*Gsvvigx$erw{iv>$jeppir!
+#Enter the Past Participle form of the verb feed:*Gsvvigx$erw{iv>$jih!
+#Enter the Past Participle form of the verb feel:*Gsvvigx$erw{iv>$jipx!
+#Enter the Past Participle form of the verb fight:*Gsvvigx$erw{iv>$jsyklx!
+#Enter the Past Participle form of the verb find:*Gsvvigx$erw{iv>$jsyrh!
+#Enter the Past Participle form of the verb fly:*Gsvvigx$erw{iv>$jps{r!
+#Enter the Past Participle form of the verb forbid:*Gsvvigx$erw{iv>$jsvfmhhir!
+#Enter the Past Participle form of the verb forget:*Gsvvigx$erw{iv>$jsvksxxir!
+#Enter the Past Participle form of the verb forgive:*Gsvvigx$erw{iv>$jsvkmzir!
+#Enter the Past Participle form of the verb freeze:*Gsvvigx$erw{iv>$jvs~ir!
+#Enter the Past form of the verb get:*Gsvvigx$erw{iv>$ksx!
+#Enter the Past form of the verb give:*Gsvvigx$erw{iv>$kezi!
+#Enter the Past form of the verb go:*Gsvvigx$erw{iv>${irx!
+#Enter the Past form of the verb grow:*Gsvvigx$erw{iv>$kvi{!
+#Enter the Past Participle form of the verb get:*Gsvvigx$erw{iv>$ksx!
+#Enter the Past Participle form of the verb give:*Gsvvigx$erw{iv>$kmzir!
+#Enter the Past Participle form of the verb go:*Gsvvigx$erw{iv>$ksri!
+#Enter the Past Participle form of the verb grow:*Gsvvigx$erw{iv>$kvs{r!
+#Enter the Past form of the verb hang:*Gsvvigx$erw{iv>$lyrk!
+#Enter the Past form of the verb have:*Gsvvigx$erw{iv>$leh!
+#Enter the Past form of the verb hear:*Gsvvigx$erw{iv>$lievh!
+#Enter the Past form of the verb hide:*Gsvvigx$erw{iv>$lmh!
+#Enter the Past form of the verb hit:*Gsvvigx$erw{iv>$lmx!
+#Enter the Past form of the verb hold:*Gsvvigx$erw{iv>$liph!
+#Enter the Past form of the verb hurt:*Gsvvigx$erw{iv>$lyvx!
+#Enter the Past Participle form of the verb hang:*Gsvvigx$erw{iv>$lyrk!
+#Enter the Past Participle form of the verb have:*Gsvvigx$erw{iv>$leh!
+#Enter the Past Participle form of the verb hear:*Gsvvigx$erw{iv>$lievh!
+#Enter the Past Participle form of the verb hide:*Gsvvigx$erw{iv>$lmhhir!
+#Enter the Past Participle form of the verb hit:*Gsvvigx$erw{iv>$lmx!
+#Enter the Past Participle form of the verb hold:*Gsvvigx$erw{iv>$liph!
+#Enter the Past Participle form of the verb hurt:*Gsvvigx$erw{iv>$lyvx!
+#Enter the Past form of the verb keep:*Gsvvigx$erw{iv>$oitx!
+#Enter the Past form of the verb know:*Gsvvigx$erw{iv>$ori{!
+#Enter the Past Participle form of the verb keep:*Gsvvigx$erw{iv>$oitx!
+#Enter the Past Participle form of the verb know:*Gsvvigx$erw{iv>$ors{r!
+#Enter the Past form of the verb lead:*Gsvvigx$erw{iv>$pih!
+#Enter the Past form of the verb learn:*Gsvvigx$erw{iv>$pievrx!
+#Enter the Past form of the verb leave:*Gsvvigx$erw{iv>$pijx!
+#Enter the Past form of the verb lend:*Gsvvigx$erw{iv>$pirx!
+#Enter the Past form of the verb let:*Gsvvigx$erw{iv>$pix!
+#Enter the Past form of the verb light:*Gsvvigx$erw{iv>$pmx!
+#Enter the Past form of the verb lose:*Gsvvigx$erw{iv>$pswx!
+#Enter the Past Participle form of the verb lead:*Gsvvigx$erw{iv>$pih!
+#Enter the Past Participle form of the verb learn:*Gsvvigx$erw{iv>$pievrx!
+#Enter the Past Participle form of the verb leave:*Gsvvigx$erw{iv>$pijx!
+#Enter the Past Participle form of the verb lend:*Gsvvigx$erw{iv>$pirx!
+#Enter the Past Participle form of the verb let:*Gsvvigx$erw{iv>$pix!
+#Enter the Past Participle form of the verb light:*Gsvvigx$erw{iv>$pmx!
+#Enter the Past Participle form of the verb lose:*Gsvvigx$erw{iv>$pswx!
+#Enter the Past form of the verb make:*Gsvvigx$erw{iv>$qehi!
+#Enter the Past form of the verb mean:*Gsvvigx$erw{iv>$qierx!
+#Enter the Past form of the verb meet:*Gsvvigx$erw{iv>$qix!
+#Enter the Past Participle form of the verb make:*Gsvvigx$erw{iv>$qehi!
+#Enter the Past Participle form of the verb mean:*Gsvvigx$erw{iv>$qierx!
+#Enter the Past Participle form of the verb meet:*Gsvvigx$erw{iv>$qix!
+#Enter the Past form of the verb pay:*Gsvvigx$erw{iv>$temh!
+#Enter the Past form of the verb put:*Gsvvigx$erw{iv>$tyx!
+#Enter the Past Participle form of the verb pay:*Gsvvigx$erw{iv>$temh!
+#Enter the Past Participle form of the verb put:*Gsvvigx$erw{iv>$tyx!
+#Enter the Past Participle form of the verb read:*Gsvvigx$erw{iv>$vieh!
+#Enter the Past Participle form of the verb ride:*Gsvvigx$erw{iv>$vshi!
+#Enter the Past Participle form of the verb ring:*Gsvvigx$erw{iv>$verk!
+#Enter the Past Participle form of the verb rise:*Gsvvigx$erw{iv>$vswi!
+#Enter the Past Participle form of the verb run:*Gsvvigx$erw{iv>$ver!
+#Enter the Past Participle form of the verb read:*Gsvvigx$erw{iv>$vieh!
+#Enter the Past Participle form of the verb ride:*Gsvvigx$erw{iv>$vmhhir!
+#Enter the Past Participle form of the verb ring:*Gsvvigx$erw{iv>$vyrk!
+#Enter the Past Participle form of the verb rise:*Gsvvigx$erw{iv>$vmwir!
+#Enter the Past Participle form of the verb run:*Gsvvigx$erw{iv>$vyr!
+#Enter the Past form of the verb say:*Gsvvigx$erw{iv>$wemh!
+#Enter the Past form of the verb see:*Gsvvigx$erw{iv>$we{!
+#Enter the Past form of the verb sell:*Gsvvigx$erw{iv>$wsph!
+#Enter the Past form of the verb send:*Gsvvigx$erw{iv>$wirx!
+#Enter the Past form of the verb set:*Gsvvigx$erw{iv>$wix!
+#Enter the Past form of the verb sew:*Gsvvigx$erw{iv>$wi{ih!
+#Enter the Past form of the verb shake:*Gsvvigx$erw{iv>$wlsso!
+#Enter the Past form of the verb shine:*Gsvvigx$erw{iv>$wlsri!
+#Enter the Past form of the verb shoot:*Gsvvigx$erw{iv>$wlsx!
+#Enter the Past form of the verb show:*Gsvvigx$erw{iv>$wls{ih!
+#Enter the Past form of the verb shut:*Gsvvigx$erw{iv>$wlyx!
+#Enter the Past form of the verb sing:*Gsvvigx$erw{iv>$werk!
+#Enter the Past form of the verb sit:*Gsvvigx$erw{iv>$wex!
+#Enter the Past form of the verb sleep:*Gsvvigx$erw{iv>$wpitx!
+#Enter the Past form of the verb smell:*Gsvvigx$erw{iv>$swqipx!
+#Enter the Past form of the verb speak:*Gsvvigx$erw{iv>$wtsoi!
+#Enter the Past form of the verb spell:*Gsvvigx$erw{iv>$wtipx!
+#Enter the Past form of the verb spend:*Gsvvigx$erw{iv>$wtirx!
+#Enter the Past form of the verb stand:*Gsvvigx$erw{iv>$wxssh!
+#Enter the Past form of the verb steal:*Gsvvigx$erw{iv>$wxspi!
+#Enter the Past form of the verb stick:*Gsvvigx$erw{iv>$wxygo!
+#Enter the Past form of the verb sting:*Gsvvigx$erw{iv>$wxyrk!
+#Enter the Past form of the verb swear:*Gsvvigx$erw{iv>$w{svi!
+#Enter the Past form of the verb sweep:*Gsvvigx$erw{iv>$w{itx!
+#Enter the Past form of the verb swim:*Gsvvigx$erw{iv>$w{eq!
+#Enter the Past Participle form of the verb say:*Gsvvigx$erw{iv>$wemh!
+#Enter the Past Participle form of the verb see:*Gsvvigx$erw{iv>$wiir!
+#Enter the Past Participle form of the verb sell:*Gsvvigx$erw{iv>$wsph!
+#Enter the Past Participle form of the verb send:*Gsvvigx$erw{iv>$wirx!
+#Enter the Past Participle form of the verb set:*Gsvvigx$erw{iv>$wix!
+#Enter the Past Participle form of the verb sew:*Gsvvigx$erw{iv>$wi{r!
+#Enter the Past Participle form of the verb shake:*Gsvvigx$erw{iv>$wleoir!
+#Enter the Past Participle form of the verb shine:*Gsvvigx$erw{iv>$wlsri!
+#Enter the Past Participle form of the verb shoot:*Gsvvigx$erw{iv>$wlsx!
+#Enter the Past Participle form of the verb show:*Gsvvigx$erw{iv>$wls{r!
+#Enter the Past Participle form of the verb shut:*Gsvvigx$erw{iv>$wlyx!
+#Enter the Past Participle form of the verb sing:*Gsvvigx$erw{iv>$wyrk!
+#Enter the Past Participle form of the verb sit:*Gsvvigx$erw{iv>$wex!
+#Enter the Past Participle form of the verb sleep:*Gsvvigx$erw{iv>$wpitx!
+#Enter the Past Participle form of the verb smell:*Gsvvigx$erw{iv>$wqipx!
+#Enter the Past Participle form of the verb speak:*Gsvvigx$erw{iv>$wtsoir!
+#Enter the Past Participle form of the verb spell:*Gsvvigx$erw{iv>$wtipx!
+#Enter the Past Participle form of the verb spend:*Gsvvigx$erw{iv>$wtirx!
+#Enter the Past Participle form of the verb stand:*Gsvvigx$erw{iv>$wxssh!
+#Enter the Past Participle form of the verb steal:*Gsvvigx$erw{iv>$wxspir!
+#Enter the Past Participle form of the verb stick:*Gsvvigx$erw{iv>$wxygo!
+#Enter the Past Participle form of the verb sting:*Gsvvigx$erw{iv>$wxyrk!
+#Enter the Past Participle form of the verb swear:*Gsvvigx$erw{iv>$w{svq!
+#Enter the Past Participle form of the verb sweep:*Gsvvigx$erw{iv>$w{itx!
+#Enter the Past Participle form of the verb swim:*Gsvvigx$erw{iv>$w{yq!
+#Enter the Past form of the verb take:*Gsvvigx$erw{iv>$xsso!
+#Enter the Past form of the verb teach:*Gsvvigx$erw{iv>$xeyklx!
+#Enter the Past form of the verb tear:*Gsvvigx$erw{iv>$xsvi!
+#Enter the Past form of the verb tell:*Gsvvigx$erw{iv>$xsph!
+#Enter the Past form of the verb think:*Gsvvigx$erw{iv>$xlsyklx!
+#Enter the Past form of the verb throw:*Gsvvigx$erw{iv>$xlvi{!
+#Enter the Past Participle form of the verb take:*Gsvvigx$erw{iv>$xeoir!
+#Enter the Past Participle form of the verb teach:*Gsvvigx$erw{iv>$xeyklx!
+#Enter the Past Participle form of the verb tear:*Gsvvigx$erw{iv>$xsvr!
+#Enter the Past Participle form of the verb tell:*Gsvvigx$erw{iv>$xsph!
+#Enter the Past Participle form of the verb think:*Gsvvigx$erw{iv>$xlsyklx!
+#Enter the Past Participle form of the verb throw:*Gsvvigx$erw{iv>$xlvs{r!
+#Enter the Past form of the verb understand:*Gsvvigx$erw{iv>$yrhivwxssh!
+#Enter the Past Participle form of the verb understand:*Gsvvigx$erw{iv>$yrhivwxssh!
+#Enter the Past form of the verb wake:*Gsvvigx$erw{iv>$soi!
+#Enter the Past form of the verb wear:*Gsvvigx$erw{iv>$svi!
+#Enter the Past form of the verb win:*Gsvvigx$erw{iv>${sr!
+#Enter the Past form of the verb write:*Gsvvigx$erw{iv>${vsxi!
+#Enter the Past Participle form of the verb wake:*Gsvvigx$erw{iv>${soir!
+#Enter the Past Participle form of the verb wear:*Gsvvigx$erw{iv>${svr!
+#Enter the Past Participle form of the verb win:*Gsvvigx$erw{iv>${sr!
+#Enter the Past Participle form of the verb write:*Gsvvigx$erw{iv>${vmxxir!
