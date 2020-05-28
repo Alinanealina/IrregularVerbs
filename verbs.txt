@@ -1,206 +1,206 @@
-﻿#Enter the Past form of the verb be:*Correct answer: !was
-#Enter the Past form of the verb bear:*Correct answer: !bore
-#Enter the Past form of the verb beat:*Correct answer: !beat
-#Enter the Past form of the verb become:*Correct answer: !became
-#Enter the Past form of the verb begin:*Correct answer: !began
-#Enter the Past form of the verb bite:*Correct answer: !bit
-#Enter the Past form of the verb blow:*Correct answer: !blew
-#Enter the Past form of the verb break:*Correct answer: !broke
-#Enter the Past form of the verb bring:*Correct answer: !brought
-#Enter the Past form of the verb build:*Correct answer: !built
-#Enter the Past form of the verb burn:*Correct answer: !burnt
-#Enter the Past form of the verb burst:*Correct answer: !burst
-#Enter the Past form of the verb buy:*Correct answer: !bought
-#Enter the Past Participle form of the verb be:*Correct answer: !been
-#Enter the Past Participle form of the verb bear:*Correct answer: !born
-#Enter the Past Participle form of the verb beat:*Correct answer: !beaten
-#Enter the Past Participle form of the verb become:*Correct answer: !become
-#Enter the Past Participle form of the verb begin:*Correct answer: !begun
-#Enter the Past Participle form of the verb bite:*Correct answer: !bitten
-#Enter the Past Participle form of the verb blow:*Correct answer: !blown
-#Enter the Past Participle form of the verb break:*Correct answer: !broken
-#Enter the Past Participle form of the verb bring:*Correct answer: !brought
-#Enter the Past Participle form of the verb build:*Correct answer: !built
-#Enter the Past Participle form of the verb burn:*Correct answer: !burnt
-#Enter the Past Participle form of the verb burst:*Correct answer: !burst
-#Enter the Past Participle form of the verb buy:*Correct answer: !bought
-#Enter the Past form of the verb can:*Correct answer: !could
-#Enter the Past form of the verb catch:*Correct answer: !caught
-#Enter the Past form of the verb choose:*Correct answer: !chose
-#Enter the Past form of the verb come:*Correct answer: !came
-#Enter the Past form of the verb cost:*Correct answer: !cost
-#Enter the Past form of the verb cut:*Correct answer: !bought
-#Enter the Past Participle form of the verb can:*Correct answer: !been able to
-#Enter the Past Participle form of the verb catch:*Correct answer: !caught
-#Enter the Past Participle form of the verb choose:*Correct answer: !chosen
-#Enter the Past Participle form of the verb come:*Correct answer: !come
-#Enter the Past Participle form of the verb cost:*Correct answer: !cost
-#Enter the Past Participle form of the verb cut:*Correct answer: !cut
-#Enter the Past form of the verb deal:*Correct answer: !dealt
-#Enter the Past form of the verb dig:*Correct answer: !dug
-#Enter the Past form of the verb do:*Correct answer: !did
-#Enter the Past form of the verb draw:*Correct answer: !drew
-#Enter the Past form of the verb dream:*Correct answer: !dreamt
-#Enter the Past form of the verb drink:*Correct answer: !drank
-#Enter the Past form of the verb drive:*Correct answer: !drove
-#Enter the Past Participle form of the verb deal:*Correct answer: !dealt
-#Enter the Past Participle form of the verb dig:*Correct answer: !dug
-#Enter the Past Participle form of the verb do:*Correct answer: !done
-#Enter the Past Participle form of the verb draw:*Correct answer: !drawn
-#Enter the Past Participle form of the verb dream:*Correct answer: !dreamt
-#Enter the Past Participle form of the verb drink:*Correct answer: !drunk
-#Enter the Past Participle form of the verb drive:*Correct answer: !driven
-#Enter the Past form of the verb eat:*Correct answer: !ate
-#Enter the Past Participle form of the verb eat:*Correct answer: !eaten
-#Enter the Past form of the verb fall:*Correct answer: !fell
-#Enter the Past form of the verb feed:*Correct answer: !fed
-#Enter the Past form of the verb feel:*Correct answer: !felt
-#Enter the Past form of the verb fight:*Correct answer: !fought
-#Enter the Past form of the verb find:*Correct answer: !found
-#Enter the Past form of the verb fly:*Correct answer: !flew
-#Enter the Past form of the verb forbid:*Correct answer: !forbade
-#Enter the Past form of the verb forget:*Correct answer: !forgot
-#Enter the Past form of the verb forgive:*Correct answer: !forgave
-#Enter the Past form of the verb freeze:*Correct answer: !froze
-#Enter the Past Participle form of the verb fall:*Correct answer: !fallen
-#Enter the Past Participle form of the verb feed:*Correct answer: !fed
-#Enter the Past Participle form of the verb feel:*Correct answer: !felt
-#Enter the Past Participle form of the verb fight:*Correct answer: !fought
-#Enter the Past Participle form of the verb find:*Correct answer: !found
-#Enter the Past Participle form of the verb fly:*Correct answer: !flown
-#Enter the Past Participle form of the verb forbid:*Correct answer: !forbidden
-#Enter the Past Participle form of the verb forget:*Correct answer: !forgotten
-#Enter the Past Participle form of the verb forgive:*Correct answer: !forgiven
-#Enter the Past Participle form of the verb freeze:*Correct answer: !frozen
-#Enter the Past form of the verb get:*Correct answer: !got
-#Enter the Past form of the verb give:*Correct answer: !gave
-#Enter the Past form of the verb go:*Correct answer: !went
-#Enter the Past form of the verb grow:*Correct answer: !grew
-#Enter the Past Participle form of the verb get:*Correct answer: !got
-#Enter the Past Participle form of the verb give:*Correct answer: !given
-#Enter the Past Participle form of the verb go:*Correct answer: !gone
-#Enter the Past Participle form of the verb grow:*Correct answer: !grown
-#Enter the Past form of the verb hang:*Correct answer: !hung
-#Enter the Past form of the verb have:*Correct answer: !had
-#Enter the Past form of the verb hear:*Correct answer: !heard
-#Enter the Past form of the verb hide:*Correct answer: !hid
-#Enter the Past form of the verb hit:*Correct answer: !hit
-#Enter the Past form of the verb hold:*Correct answer: !held
-#Enter the Past form of the verb hurt:*Correct answer: !hurt
-#Enter the Past Participle form of the verb hang:*Correct answer: !hung
-#Enter the Past Participle form of the verb have:*Correct answer: !had
-#Enter the Past Participle form of the verb hear:*Correct answer: !heard
-#Enter the Past Participle form of the verb hide:*Correct answer: !hidden
-#Enter the Past Participle form of the verb hit:*Correct answer: !hit
-#Enter the Past Participle form of the verb hold:*Correct answer: !held
-#Enter the Past Participle form of the verb hurt:*Correct answer: !hurt
-#Enter the Past form of the verb keep:*Correct answer: !kept
-#Enter the Past form of the verb know:*Correct answer: !knew
-#Enter the Past Participle form of the verb keep:*Correct answer: !kept
-#Enter the Past Participle form of the verb know:*Correct answer: !known
-#Enter the Past form of the verb lead:*Correct answer: !led
-#Enter the Past form of the verb learn:*Correct answer: !learnt
-#Enter the Past form of the verb leave:*Correct answer: !left
-#Enter the Past form of the verb lend:*Correct answer: !lent
-#Enter the Past form of the verb let:*Correct answer: !let
-#Enter the Past form of the verb light:*Correct answer: !lit
-#Enter the Past form of the verb lose:*Correct answer: !lost
-#Enter the Past Participle form of the verb lead:*Correct answer: !led
-#Enter the Past Participle form of the verb learn:*Correct answer: !learnt
-#Enter the Past Participle form of the verb leave:*Correct answer: !left
-#Enter the Past Participle form of the verb lend:*Correct answer: !lent
-#Enter the Past Participle form of the verb let:*Correct answer: !let
-#Enter the Past Participle form of the verb light:*Correct answer: !lit
-#Enter the Past Participle form of the verb lose:*Correct answer: !lost
-#Enter the Past form of the verb make:*Correct answer: !made
-#Enter the Past form of the verb mean:*Correct answer: !meant
-#Enter the Past form of the verb meet:*Correct answer: !met
-#Enter the Past Participle form of the verb make:*Correct answer: !made
-#Enter the Past Participle form of the verb mean:*Correct answer: !meant
-#Enter the Past Participle form of the verb meet:*Correct answer: !met
-#Enter the Past form of the verb pay:*Correct answer: !paid
-#Enter the Past form of the verb put:*Correct answer: !put
-#Enter the Past Participle form of the verb pay:*Correct answer: !paid
-#Enter the Past Participle form of the verb put:*Correct answer: !put
-#Enter the Past Participle form of the verb read:*Correct answer: !read
-#Enter the Past Participle form of the verb ride:*Correct answer: !rode
-#Enter the Past Participle form of the verb ring:*Correct answer: !rang
-#Enter the Past Participle form of the verb rise:*Correct answer: !rose
-#Enter the Past Participle form of the verb run:*Correct answer: !ran
-#Enter the Past Participle form of the verb read:*Correct answer: !read
-#Enter the Past Participle form of the verb ride:*Correct answer: !ridden
-#Enter the Past Participle form of the verb ring:*Correct answer: !rung
-#Enter the Past Participle form of the verb rise:*Correct answer: !risen
-#Enter the Past Participle form of the verb run:*Correct answer: !run
-#Enter the Past form of the verb say:*Correct answer: !said
-#Enter the Past form of the verb see:*Correct answer: !saw
-#Enter the Past form of the verb sell:*Correct answer: !sold
-#Enter the Past form of the verb send:*Correct answer: !sent
-#Enter the Past form of the verb set:*Correct answer: !set
-#Enter the Past form of the verb sew:*Correct answer: !sewed
-#Enter the Past form of the verb shake:*Correct answer: !shook
-#Enter the Past form of the verb shine:*Correct answer: !shone
-#Enter the Past form of the verb shoot:*Correct answer: !shot
-#Enter the Past form of the verb show:*Correct answer: !showed
-#Enter the Past form of the verb shut:*Correct answer: !shut
-#Enter the Past form of the verb sing:*Correct answer: !sang
-#Enter the Past form of the verb sit:*Correct answer: !sat
-#Enter the Past form of the verb sleep:*Correct answer: !slept
-#Enter the Past form of the verb smell:*Correct answer: !smelt
-#Enter the Past form of the verb speak:*Correct answer: !spoke
-#Enter the Past form of the verb spell:*Correct answer: !spelt
-#Enter the Past form of the verb spend:*Correct answer: !spent
-#Enter the Past form of the verb stand:*Correct answer: !stood
-#Enter the Past form of the verb steal:*Correct answer: !stole
-#Enter the Past form of the verb stick:*Correct answer: !stuck
-#Enter the Past form of the verb sting:*Correct answer: !stung
-#Enter the Past form of the verb swear:*Correct answer: !swore
-#Enter the Past form of the verb sweep:*Correct answer: !swept
-#Enter the Past form of the verb swim:*Correct answer: !swam
-#Enter the Past Participle form of the verb say:*Correct answer: !said
-#Enter the Past Participle form of the verb see:*Correct answer: !seen
-#Enter the Past Participle form of the verb sell:*Correct answer: !sold
-#Enter the Past Participle form of the verb send:*Correct answer: !sent
-#Enter the Past Participle form of the verb set:*Correct answer: !set
-#Enter the Past Participle form of the verb sew:*Correct answer: !sewn
-#Enter the Past Participle form of the verb shake:*Correct answer: !shaken
-#Enter the Past Participle form of the verb shine:*Correct answer: !shone
-#Enter the Past Participle form of the verb shoot:*Correct answer: !shot
-#Enter the Past Participle form of the verb show:*Correct answer: !shown
-#Enter the Past Participle form of the verb shut:*Correct answer: !shut
-#Enter the Past Participle form of the verb sing:*Correct answer: !sung
-#Enter the Past Participle form of the verb sit:*Correct answer: !sat
-#Enter the Past Participle form of the verb sleep:*Correct answer: !slept
-#Enter the Past Participle form of the verb smell:*Correct answer: !smelt
-#Enter the Past Participle form of the verb speak:*Correct answer: !spoken
-#Enter the Past Participle form of the verb spell:*Correct answer: !spelt
-#Enter the Past Participle form of the verb spend:*Correct answer: !spent
-#Enter the Past Participle form of the verb stand:*Correct answer: !stood
-#Enter the Past Participle form of the verb steal:*Correct answer: !stolen
-#Enter the Past Participle form of the verb stick:*Correct answer: !stuck
-#Enter the Past Participle form of the verb sting:*Correct answer: !stung
-#Enter the Past Participle form of the verb swear:*Correct answer: !sworm
-#Enter the Past Participle form of the verb sweep:*Correct answer: !swept
-#Enter the Past Participle form of the verb swim:*Correct answer: !swum
-#Enter the Past form of the verb take:*Correct answer: !took
-#Enter the Past form of the verb teach:*Correct answer: !taught
-#Enter the Past form of the verb tear:*Correct answer: !tore
-#Enter the Past form of the verb tell:*Correct answer: !told
-#Enter the Past form of the verb think:*Correct answer: !thought
-#Enter the Past form of the verb throw:*Correct answer: !threw
-#Enter the Past Participle form of the verb take:*Correct answer: !taken
-#Enter the Past Participle form of the verb teach:*Correct answer: !taught
-#Enter the Past Participle form of the verb tear:*Correct answer: !torn
-#Enter the Past Participle form of the verb tell:*Correct answer: !told
-#Enter the Past Participle form of the verb think:*Correct answer: !thought
-#Enter the Past Participle form of the verb throw:*Correct answer: !thrown
-#Enter the Past form of the verb understand:*Correct answer: !understood
-#Enter the Past Participle form of the verb understand:*Correct answer: !understood
-#Enter the Past form of the verb wake:*Correct answer: !woke
-#Enter the Past form of the verb wear:*Correct answer: !wore
-#Enter the Past form of the verb win:*Correct answer: !won
-#Enter the Past form of the verb write:*Correct answer: !wrote
-#Enter the Past Participle form of the verb wake:*Correct answer: !woken
-#Enter the Past Participle form of the verb wear:*Correct answer: !worn
-#Enter the Past Participle form of the verb win:*Correct answer: !won
-#Enter the Past Participle form of the verb write:*Correct answer: !written
+﻿#Enter the Past form of the verb be:*Correct answer: was!
+#Enter the Past form of the verb bear:*Correct answer: bore!
+#Enter the Past form of the verb beat:*Correct answer: beat!
+#Enter the Past form of the verb become:*Correct answer: became!
+#Enter the Past form of the verb begin:*Correct answer: began!
+#Enter the Past form of the verb bite:*Correct answer: bit!
+#Enter the Past form of the verb blow:*Correct answer: blew!
+#Enter the Past form of the verb break:*Correct answer: broke!
+#Enter the Past form of the verb bring:*Correct answer: brought!
+#Enter the Past form of the verb build:*Correct answer: built!
+#Enter the Past form of the verb burn:*Correct answer: burnt!
+#Enter the Past form of the verb burst:*Correct answer: burst!
+#Enter the Past form of the verb buy:*Correct answer: bought!
+#Enter the Past Participle form of the verb be:*Correct answer: been!
+#Enter the Past Participle form of the verb bear:*Correct answer: born!
+#Enter the Past Participle form of the verb beat:*Correct answer: beaten!
+#Enter the Past Participle form of the verb become:*Correct answer: become!
+#Enter the Past Participle form of the verb begin:*Correct answer: begun!
+#Enter the Past Participle form of the verb bite:*Correct answer: bitten!
+#Enter the Past Participle form of the verb blow:*Correct answer: blown!
+#Enter the Past Participle form of the verb break:*Correct answer: broken!
+#Enter the Past Participle form of the verb bring:*Correct answer: brought!
+#Enter the Past Participle form of the verb build:*Correct answer: built!
+#Enter the Past Participle form of the verb burn:*Correct answer: burnt!
+#Enter the Past Participle form of the verb burst:*Correct answer: burst!
+#Enter the Past Participle form of the verb buy:*Correct answer: bought!
+#Enter the Past form of the verb can:*Correct answer: could!
+#Enter the Past form of the verb catch:*Correct answer: caught!
+#Enter the Past form of the verb choose:*Correct answer: chose!
+#Enter the Past form of the verb come:*Correct answer: came!
+#Enter the Past form of the verb cost:*Correct answer: cost!
+#Enter the Past form of the verb cut:*Correct answer: bought!
+#Enter the Past Participle form of the verb can:*Correct answer: been able to!
+#Enter the Past Participle form of the verb catch:*Correct answer: caught!
+#Enter the Past Participle form of the verb choose:*Correct answer: chosen!
+#Enter the Past Participle form of the verb come:*Correct answer: come!
+#Enter the Past Participle form of the verb cost:*Correct answer: cost!
+#Enter the Past Participle form of the verb cut:*Correct answer: cut!
+#Enter the Past form of the verb deal:*Correct answer: dealt!
+#Enter the Past form of the verb dig:*Correct answer: dug!
+#Enter the Past form of the verb do:*Correct answer: did!
+#Enter the Past form of the verb draw:*Correct answer: drew!
+#Enter the Past form of the verb dream:*Correct answer: dreamt!
+#Enter the Past form of the verb drink:*Correct answer: drank!
+#Enter the Past form of the verb drive:*Correct answer: drove!
+#Enter the Past Participle form of the verb deal:*Correct answer: dealt!
+#Enter the Past Participle form of the verb dig:*Correct answer: dug!
+#Enter the Past Participle form of the verb do:*Correct answer: done!
+#Enter the Past Participle form of the verb draw:*Correct answer: drawn!
+#Enter the Past Participle form of the verb dream:*Correct answer: dreamt!
+#Enter the Past Participle form of the verb drink:*Correct answer: drunk!
+#Enter the Past Participle form of the verb drive:*Correct answer: driven!
+#Enter the Past form of the verb eat:*Correct answer: ate!
+#Enter the Past Participle form of the verb eat:*Correct answer: eaten!
+#Enter the Past form of the verb fall:*Correct answer: fell!
+#Enter the Past form of the verb feed:*Correct answer: fed!
+#Enter the Past form of the verb feel:*Correct answer: felt!
+#Enter the Past form of the verb fight:*Correct answer: fought!
+#Enter the Past form of the verb find:*Correct answer: found!
+#Enter the Past form of the verb fly:*Correct answer: flew!
+#Enter the Past form of the verb forbid:*Correct answer: forbade!
+#Enter the Past form of the verb forget:*Correct answer: forgot!
+#Enter the Past form of the verb forgive:*Correct answer: forgave!
+#Enter the Past form of the verb freeze:*Correct answer: froze!
+#Enter the Past Participle form of the verb fall:*Correct answer: fallen!
+#Enter the Past Participle form of the verb feed:*Correct answer: fed!
+#Enter the Past Participle form of the verb feel:*Correct answer: felt!
+#Enter the Past Participle form of the verb fight:*Correct answer: fought!
+#Enter the Past Participle form of the verb find:*Correct answer: found!
+#Enter the Past Participle form of the verb fly:*Correct answer: flown!
+#Enter the Past Participle form of the verb forbid:*Correct answer: forbidden!
+#Enter the Past Participle form of the verb forget:*Correct answer: forgotten!
+#Enter the Past Participle form of the verb forgive:*Correct answer: forgiven!
+#Enter the Past Participle form of the verb freeze:*Correct answer: frozen!
+#Enter the Past form of the verb get:*Correct answer: got!
+#Enter the Past form of the verb give:*Correct answer: gave!
+#Enter the Past form of the verb go:*Correct answer: went!
+#Enter the Past form of the verb grow:*Correct answer: grew!
+#Enter the Past Participle form of the verb get:*Correct answer: got!
+#Enter the Past Participle form of the verb give:*Correct answer: given!
+#Enter the Past Participle form of the verb go:*Correct answer: gone!
+#Enter the Past Participle form of the verb grow:*Correct answer: grown!
+#Enter the Past form of the verb hang:*Correct answer: hung!
+#Enter the Past form of the verb have:*Correct answer: had!
+#Enter the Past form of the verb hear:*Correct answer: heard!
+#Enter the Past form of the verb hide:*Correct answer: hid!
+#Enter the Past form of the verb hit:*Correct answer: hit!
+#Enter the Past form of the verb hold:*Correct answer: held!
+#Enter the Past form of the verb hurt:*Correct answer: hurt!
+#Enter the Past Participle form of the verb hang:*Correct answer: hung!
+#Enter the Past Participle form of the verb have:*Correct answer: had!
+#Enter the Past Participle form of the verb hear:*Correct answer: heard!
+#Enter the Past Participle form of the verb hide:*Correct answer: hidden!
+#Enter the Past Participle form of the verb hit:*Correct answer: hit!
+#Enter the Past Participle form of the verb hold:*Correct answer: held!
+#Enter the Past Participle form of the verb hurt:*Correct answer: hurt!
+#Enter the Past form of the verb keep:*Correct answer: kept!
+#Enter the Past form of the verb know:*Correct answer: knew!
+#Enter the Past Participle form of the verb keep:*Correct answer: kept!
+#Enter the Past Participle form of the verb know:*Correct answer: known!
+#Enter the Past form of the verb lead:*Correct answer: led!
+#Enter the Past form of the verb learn:*Correct answer: learnt!
+#Enter the Past form of the verb leave:*Correct answer: left!
+#Enter the Past form of the verb lend:*Correct answer: lent!
+#Enter the Past form of the verb let:*Correct answer: let!
+#Enter the Past form of the verb light:*Correct answer: lit!
+#Enter the Past form of the verb lose:*Correct answer: lost!
+#Enter the Past Participle form of the verb lead:*Correct answer: led!
+#Enter the Past Participle form of the verb learn:*Correct answer: learnt!
+#Enter the Past Participle form of the verb leave:*Correct answer: left!
+#Enter the Past Participle form of the verb lend:*Correct answer: lent!
+#Enter the Past Participle form of the verb let:*Correct answer: let!
+#Enter the Past Participle form of the verb light:*Correct answer: lit!
+#Enter the Past Participle form of the verb lose:*Correct answer: lost!
+#Enter the Past form of the verb make:*Correct answer: made!
+#Enter the Past form of the verb mean:*Correct answer: meant!
+#Enter the Past form of the verb meet:*Correct answer: met!
+#Enter the Past Participle form of the verb make:*Correct answer: made!
+#Enter the Past Participle form of the verb mean:*Correct answer: meant!
+#Enter the Past Participle form of the verb meet:*Correct answer: met!
+#Enter the Past form of the verb pay:*Correct answer: paid!
+#Enter the Past form of the verb put:*Correct answer: put!
+#Enter the Past Participle form of the verb pay:*Correct answer: paid!
+#Enter the Past Participle form of the verb put:*Correct answer: put!
+#Enter the Past Participle form of the verb read:*Correct answer: read!
+#Enter the Past Participle form of the verb ride:*Correct answer: rode!
+#Enter the Past Participle form of the verb ring:*Correct answer: rang!
+#Enter the Past Participle form of the verb rise:*Correct answer: rose!
+#Enter the Past Participle form of the verb run:*Correct answer: ran!
+#Enter the Past Participle form of the verb read:*Correct answer: read!
+#Enter the Past Participle form of the verb ride:*Correct answer: ridden!
+#Enter the Past Participle form of the verb ring:*Correct answer: rung!
+#Enter the Past Participle form of the verb rise:*Correct answer: risen!
+#Enter the Past Participle form of the verb run:*Correct answer: run!
+#Enter the Past form of the verb say:*Correct answer: said!
+#Enter the Past form of the verb see:*Correct answer: saw!
+#Enter the Past form of the verb sell:*Correct answer: sold!
+#Enter the Past form of the verb send:*Correct answer: sent!
+#Enter the Past form of the verb set:*Correct answer: set!
+#Enter the Past form of the verb sew:*Correct answer: sewed!
+#Enter the Past form of the verb shake:*Correct answer: shook!
+#Enter the Past form of the verb shine:*Correct answer: shone!
+#Enter the Past form of the verb shoot:*Correct answer: shot!
+#Enter the Past form of the verb show:*Correct answer: showed!
+#Enter the Past form of the verb shut:*Correct answer: shut!
+#Enter the Past form of the verb sing:*Correct answer: sang!
+#Enter the Past form of the verb sit:*Correct answer: sat!
+#Enter the Past form of the verb sleep:*Correct answer: slept!
+#Enter the Past form of the verb smell:*Correct answer: smelt!
+#Enter the Past form of the verb speak:*Correct answer: spoke!
+#Enter the Past form of the verb spell:*Correct answer: spelt!
+#Enter the Past form of the verb spend:*Correct answer: spent!
+#Enter the Past form of the verb stand:*Correct answer: stood!
+#Enter the Past form of the verb steal:*Correct answer: stole!
+#Enter the Past form of the verb stick:*Correct answer: stuck!
+#Enter the Past form of the verb sting:*Correct answer: stung!
+#Enter the Past form of the verb swear:*Correct answer: swore!
+#Enter the Past form of the verb sweep:*Correct answer: swept!
+#Enter the Past form of the verb swim:*Correct answer: swam!
+#Enter the Past Participle form of the verb say:*Correct answer: said!
+#Enter the Past Participle form of the verb see:*Correct answer: seen!
+#Enter the Past Participle form of the verb sell:*Correct answer: sold!
+#Enter the Past Participle form of the verb send:*Correct answer: sent!
+#Enter the Past Participle form of the verb set:*Correct answer: set!
+#Enter the Past Participle form of the verb sew:*Correct answer: sewn!
+#Enter the Past Participle form of the verb shake:*Correct answer: shaken!
+#Enter the Past Participle form of the verb shine:*Correct answer: shone!
+#Enter the Past Participle form of the verb shoot:*Correct answer: shot!
+#Enter the Past Participle form of the verb show:*Correct answer: shown!
+#Enter the Past Participle form of the verb shut:*Correct answer: shut!
+#Enter the Past Participle form of the verb sing:*Correct answer: sung!
+#Enter the Past Participle form of the verb sit:*Correct answer: sat!
+#Enter the Past Participle form of the verb sleep:*Correct answer: slept!
+#Enter the Past Participle form of the verb smell:*Correct answer: smelt!
+#Enter the Past Participle form of the verb speak:*Correct answer: spoken!
+#Enter the Past Participle form of the verb spell:*Correct answer: spelt!
+#Enter the Past Participle form of the verb spend:*Correct answer: spent!
+#Enter the Past Participle form of the verb stand:*Correct answer: stood!
+#Enter the Past Participle form of the verb steal:*Correct answer: stolen!
+#Enter the Past Participle form of the verb stick:*Correct answer: stuck!
+#Enter the Past Participle form of the verb sting:*Correct answer: stung!
+#Enter the Past Participle form of the verb swear:*Correct answer: sworm!
+#Enter the Past Participle form of the verb sweep:*Correct answer: swept!
+#Enter the Past Participle form of the verb swim:*Correct answer: swum!
+#Enter the Past form of the verb take:*Correct answer: took!
+#Enter the Past form of the verb teach:*Correct answer: taught!
+#Enter the Past form of the verb tear:*Correct answer: tore!
+#Enter the Past form of the verb tell:*Correct answer: told!
+#Enter the Past form of the verb think:*Correct answer: thought!
+#Enter the Past form of the verb throw:*Correct answer: threw!
+#Enter the Past Participle form of the verb take:*Correct answer: taken!
+#Enter the Past Participle form of the verb teach:*Correct answer: taught!
+#Enter the Past Participle form of the verb tear:*Correct answer: torn!
+#Enter the Past Participle form of the verb tell:*Correct answer: told!
+#Enter the Past Participle form of the verb think:*Correct answer: thought!
+#Enter the Past Participle form of the verb throw:*Correct answer: thrown!
+#Enter the Past form of the verb understand:*Correct answer: understood!
+#Enter the Past Participle form of the verb understand:*Correct answer: understood!
+#Enter the Past form of the verb wake:*Correct answer: woke!
+#Enter the Past form of the verb wear:*Correct answer: wore!
+#Enter the Past form of the verb win:*Correct answer: won!
+#Enter the Past form of the verb write:*Correct answer: wrote!
+#Enter the Past Participle form of the verb wake:*Correct answer: woken!
+#Enter the Past Participle form of the verb wear:*Correct answer: worn!
+#Enter the Past Participle form of the verb win:*Correct answer: won!
+#Enter the Past Participle form of the verb write:*Correct answer: written!

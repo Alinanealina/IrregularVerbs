@@ -11,11 +11,12 @@ int read_file()
 {
     echo();
     keypad(stdscr, false);
-    int x = 5, y = 3;
+    int y = 3;
     FILE *verb, *restab;
     char ch, answer[20], correct[20], surname[20];
     int i, N, A[10], j, k, l, result = 0, len;
     srand(time(NULL));
+    attron(COLOR_PAIR(4));
     verb = fopen("verbs.txt", "r");
     for (i = 0; i < 10; i++) {
         while (1) {
@@ -49,22 +50,13 @@ int read_file()
         printw(" ");
         refresh();
         getstr(answer);
-        refresh();
         attroff(A_BLINK);
         len = strlen(answer);
         while ((ch = getc(verb)) != '!') {
             printw("%c", ch);
             refresh();
         }
-        j = 0;
-        while ((ch = getc(verb)) != '\n') {
-            correct[j] = ch;
-            j++;
-            move(y, x);
-            printw("%c", ch);
-            refresh();
-        }
-        y += 4;
+        y += 7;
         if (j == len) {
             if (strncmp(correct, answer, j) == 0)
                 result++;
@@ -79,9 +71,12 @@ int read_file()
     restab = fopen("result_table.txt", "a");
     getstr(surname);
     refresh();
+    if (strncmp(surname, "exit", 4) == 0)
+        return 0;
     fputs(surname, restab);
     fprintf(restab, " - %d\n", result);
     refresh();
     fclose(restab);
+
     return 0;
 }
