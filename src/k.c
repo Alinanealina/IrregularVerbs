@@ -7,18 +7,18 @@
 #include <time.h>
 #include <unistd.h>
 
-void check(char answer[20], int* e)
+void check(char answer[20], int* flag_error)
 {
-    for (int er = 0; er < strlen(answer); er++) {
-        if (answer[er] < 97 || answer[er] > 122 || strlen(answer) > 20) {
+    for (int i = 0; i < strlen(answer); i++) {
+        if (((answer[i] < 97 || answer[i] > 122) && answer[i] != ' ') || strlen(answer) > 20) {
             attron(COLOR_PAIR(8));
             printw("Error comand. Enter again: ");
             refresh();
-            *e = 1;
+            *flag_error = 1;
             attroff(COLOR_PAIR(8));
             break;
         } else
-            *e = 0;
+            *flag_error = 0;
     }
 }
 
@@ -64,12 +64,12 @@ int read_file()
         }
         printw(" ");
         refresh();
-        int e = 1;
-        while (e == 1) {
+        int flag_error = 1;
+        while (flag_error == 1) {
             getstr(answer);
             if (strncmp(answer, "exit", 4) == 0)
                 return 0;
-            check(answer, &e);
+            check(answer, &flag_error);
         }
         attroff(A_BLINK);
         len = strlen(answer);
