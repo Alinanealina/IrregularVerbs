@@ -45,7 +45,6 @@ void menu(int y, int x)
 }
 
 void play(int y, int x)
-
 {
     move(y++, x);
     printw("               ___                         ___        __________   "
@@ -120,7 +119,7 @@ void Exit(int y, int x)
            "     \\_______\\/");
 }
 
-void drow(int x, int y)
+void drow_all_menu(int x, int y)
 
 {
     attroff(A_BLINK);
@@ -150,7 +149,7 @@ void drow(int x, int y)
     refresh();
 }
 
-void init_col()
+void init_colors()
 {
     init_pair(0, COLOR_CYAN, COLOR_CYAN);
     init_pair(1, COLOR_YELLOW, COLOR_CYAN);
@@ -168,14 +167,13 @@ void Helper()
 {
     bkgd(COLOR_PAIR(10));
     refresh();
-    FILE* file;
+    FILE* Helper;
     char buffer;
-    file = fopen("Helper.txt", "r");
-    while ((buffer = getc(file)) != EOF) {
+    Helper = fopen("Helper.txt", "r");
+    while ((buffer = getc(Helper)) != EOF) {
         printf("%c", buffer);
     }
-    fclose(file);
-    // bkgd(COLOR_PAIR(50));
+    fclose(Helper);
 }
 
 int main()
@@ -184,19 +182,20 @@ int main()
     start_color();
 
     int x, y;
-    int size = getmaxyx(stdscr, y, x);
+    int size_window = getmaxyx(stdscr, y, x);
 
-    init_col();
+    init_colors();
     if (!has_colors()) {
         endwin();
         printw("Цвета не поддерживаются");
         exit(1);
         return 1;
     }
-    x = size / 3 - 20;
-    drow(x, y);
 
-    int f = 0, key;
+    x = size_window / 3 - 20;
+    drow_all_menu(x, y);
+
+    int location = 0, button;
     while (1) {
         bkgd(COLOR_PAIR(50));
         refresh();
@@ -205,37 +204,37 @@ int main()
         keypad(stdscr, TRUE);
         clear();
         y = 22;
-        drow(x, y);
-        key = getch();
+        drow_all_menu(x, y);
+        button = getch();
 
-        while ((key != 27) && (key != 10) && (y <= 52) && (key == 258)) {
+        while ((button != 27) && (button != 10) && (y <= 52) && (button == 258)) {
             if ((y == 22)) {
                 move(y, x);
                 attron(A_BLINK);
                 attron(COLOR_PAIR(49));
                 play(y, x);
                 refresh();
-                key = getch();
-                if (key == 10) {
-                    f = 1;
+                button = getch();
+                if (button == 10) {
+                    location = 1;
                     break;
                 }
-                // sleep(1);
                 move(y, x);
                 attroff(A_BLINK);
                 attron(COLOR_PAIR(1));
                 play(y, x);
                 refresh();
             }
+            
             if ((y == 37)) {
                 move(y, x);
                 attron(A_BLINK);
                 attron(COLOR_PAIR(49));
                 help(y, x);
                 refresh();
-                key = getch();
-                if (key == 10) {
-                    f = 2;
+                button = getch();
+                if (button == 10) {
+                    location = 2;
                     break;
                 }
                 move(y, x);
@@ -244,14 +243,15 @@ int main()
                 help(y, x);
                 refresh();
             }
+
             if ((y == 52)) {
                 move(y, x);
                 attron(A_BLINK);
                 attron(COLOR_PAIR(49));
                 Exit(y, x);
                 refresh();
-                key = getch();
-                if (key == 10) {
+                button = getch();
+                if (button == 10) {
                     endwin();
                     return 0;
                 }
@@ -263,13 +263,10 @@ int main()
             }
             y += 15;
         }
-        while ((key != 27) && (f != 0)) {
-            // clear();
-            //    move(20,size/2 );
-            // printw("f = %d",f);
-            // refresh();
-            // getch();
-            switch (f) {
+
+        while ((button != 27) && (location != 0)) {
+
+            switch (location) {
             case 1: {
                 clear();
                 refresh();
@@ -278,7 +275,7 @@ int main()
                 attroff(A_BLINK);
                 attron(COLOR_PAIR(50));
                 read_file();
-                key = getch();
+                button = getch();
                 break;
             }
             case 2: {
@@ -289,16 +286,12 @@ int main()
                 attron(COLOR_PAIR(50));
                 Helper();
                 refresh();
-                key = getch();
+                button = getch();
                 break;
             }
             }
-            f = 0;
+            location = 0;
         }
     }
-
-    // getch(); // ждём нажатия символа
-
     endwin(); // завершение работы с ncurses
 }
-// echo() отменяет действие noecho().
