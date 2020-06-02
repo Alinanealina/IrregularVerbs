@@ -152,12 +152,30 @@ void drow(int x, int y)
 
 void init_col()
 {
+    init_pair(0, COLOR_CYAN, COLOR_CYAN);
     init_pair(1, COLOR_YELLOW, COLOR_CYAN);
     init_pair(54, COLOR_BLACK, COLOR_CYAN);
     init_pair(49, COLOR_CYAN, COLOR_MAGENTA);
     init_pair(3, COLOR_WHITE, COLOR_MAGENTA);
     init_pair(50, COLOR_WHITE, COLOR_CYAN);
     init_pair(2, COLOR_GREEN, COLOR_YELLOW);
+    init_pair(4, COLOR_WHITE, COLOR_CYAN);
+    init_pair(10, COLOR_WHITE, COLOR_BLACK);
+    init_pair(8, COLOR_RED, COLOR_CYAN);
+}
+
+void Helper(int size)
+{
+    bkgd(COLOR_PAIR(10));
+    refresh();
+    FILE* file;
+    char buffer;
+    file = fopen("Helper.txt", "r");
+    while ((buffer = getc(file)) != EOF) {
+        printf("%c", buffer);
+    }
+    fclose(file);
+    // bkgd(COLOR_PAIR(50));
 }
 
 int main()
@@ -167,27 +185,21 @@ int main()
 
     int x, y;
     int size = getmaxyx(stdscr, y, x);
-    bkgd(COLOR_PAIR(50));
 
     init_col();
     if (!has_colors()) {
         endwin();
         printw("Цвета не поддерживаются");
         exit(1);
+        return 1;
     }
     x = size / 3 - 20;
     drow(x, y);
 
-    // move(20,x);
-    // attron(A_BOLD);
-    // attron(COLOR_PAIR(1));
-    // printw("Нажите любую клавишу чтобы начать");
-    // refresh();
-    // 	int key = getch();
-    // 	printw("key = %d",key);
-    // refresh();
     int f = 0, key;
     while (1) {
+        bkgd(COLOR_PAIR(50));
+        refresh();
         noecho();
         curs_set(0);
         keypad(stdscr, TRUE);
@@ -270,8 +282,11 @@ int main()
             }
             case 2: {
                 clear();
-                move(20, size / 2);
-                printw("Help");
+                refresh();
+                echo();
+                attroff(A_BLINK);
+                attron(COLOR_PAIR(50));
+                Helper(size);
                 refresh();
                 key = getch();
                 break;
