@@ -7,9 +7,11 @@
 #include <time.h>
 #include <unistd.h>
 
-void random_question(int question_number, int asked_questions[], int* line_number)
+void random_question(
+	int question_number, int asked_questions[], int* line_number)
 {
-    int flag_repeat, i; // flag_repeat - флаг для распознания повторяющихся вопросов
+    int flag_repeat, 
+    i; // flag_repeat - флаг для распознания повторяющихся вопросов
     while (1) {
         flag_repeat = 0;
         *line_number = rand() % 206;

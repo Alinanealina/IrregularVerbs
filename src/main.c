@@ -207,7 +207,8 @@ int main()
         drow_all_menu(x, y);
         button = getch();
 
-        while ((button != 27) && (button != 10) && (y <= 52) && (button == 258)) {
+        while ((button != 27) && (button != 10) && (y <= 52)
+            && (button == 258)) {
             if ((y == 22)) {
                 move(y, x);
                 attron(A_BLINK);
@@ -225,7 +226,7 @@ int main()
                 play(y, x);
                 refresh();
             }
-            
+
             if ((y == 37)) {
                 move(y, x);
                 attron(A_BLINK);
