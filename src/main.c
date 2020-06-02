@@ -208,7 +208,7 @@ int main()
         button = getch();
 
         while ((button != 27) && (button != 10) && (y <= 52)
-            && (button == 258)) {
+               && (button == 258)) {
             if ((y == 22)) {
                 move(y, x);
                 attron(A_BLINK);
@@ -266,7 +266,6 @@ int main()
         }
 
         while ((button != 27) && (location != 0)) {
-
             switch (location) {
             case 1: {
                 clear();
