@@ -10,7 +10,8 @@
 void check(char answer[20], int* flag_error)
 {
     for (int i = 0; i < strlen(answer); i++) {
-        if (((answer[i] < 97 || answer[i] > 122) && answer[i] != ' ') || strlen(answer) > 20) {
+        if (((answer[i] < 97 || answer[i] > 122) && answer[i] != ' ') 
+        	|| strlen(answer) > 20) {
             attron(COLOR_PAIR(8));
             printw("Error comand. Enter again: ");
             refresh();
