@@ -1,0 +1,8 @@
+                       Application Instructions:
+10 random questions based on the knowledge of irregular English verbs will be displayed on the screen in turn.
+The answer should be entered only in lower case in English, there should not be extra characters and spaces.
+After entering the answer, you must press the "Enter" key to continue the test.
+Next, the program will display the correct answer and the number of correct user's answers at the moment.
+At the end, the user can enter his name to save the result in a text file. If the user wants to exit to the main menu, he needs to enter the line "exit".
+
+
