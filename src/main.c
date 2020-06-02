@@ -164,7 +164,7 @@ void init_col()
     init_pair(8, COLOR_RED, COLOR_CYAN);
 }
 
-void Helper(int size)
+void Helper()
 {
     bkgd(COLOR_PAIR(10));
     refresh();
@@ -275,7 +275,8 @@ int main()
                 refresh();
                 echo();
                 attroff(A_BLINK);
-                attron(COLOR_PAIR(3));
+                attroff(A_BLINK);
+                attron(COLOR_PAIR(50));
                 read_file();
                 key = getch();
                 break;
@@ -286,7 +287,7 @@ int main()
                 echo();
                 attroff(A_BLINK);
                 attron(COLOR_PAIR(50));
-                Helper(size);
+                Helper();
                 refresh();
                 key = getch();
                 break;
