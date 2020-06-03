@@ -8,10 +8,10 @@
 #include <unistd.h>
 
 void random_question(
-	int question_number, int asked_questions[], int* line_number)
+        int question_number, int asked_questions[], int* line_number)
 {
     int flag_repeat,
-    i; // flag_repeat - флаг для распознания повторяющихся вопросов
+            i; // flag_repeat - флаг для распознания повторяющихся вопросов
     int max_questions = 206;
     while (1) {
         flag_repeat = 0;
@@ -69,7 +69,6 @@ void check(char answer[20], int* flag_error)
         }
     }
 }
-
 
 int write_and_check_answer(FILE* verb, int* result, int x, int y, int quantity)
 {
@@ -136,8 +135,9 @@ int read_file()
     keypad(stdscr, false);
     int x = 5, y = 3;
     FILE* verb;
-    int *asked_questions;
-    int question_number, line_number = 0, quantity, result = 0, max_questions = 206, min_questions = 1;
+    int* asked_questions;
+    int question_number, line_number = 0, quantity, result = 0,
+                         max_questions = 206, min_questions = 1;
     srand(time(NULL));
     verb = fopen("verbs.txt", "r");
 
@@ -148,19 +148,18 @@ int read_file()
     refresh();
     clear();
 
-    while (quantity < min_questions || quantity > max_questions)
-	{
-		move(y, x);
-		attron(COLOR_PAIR(8));
-		printw("Incorrect entry, drive correctly!: ");
-		refresh();
-    	attroff(COLOR_PAIR(8));
-		scanw("%d", &quantity);
-    	refresh();
-    	clear();
-	}
+    while (quantity < min_questions || quantity > max_questions) {
+        move(y, x);
+        attron(COLOR_PAIR(8));
+        printw("Incorrect entry, drive correctly!: ");
+        refresh();
+        attroff(COLOR_PAIR(8));
+        scanw("%d", &quantity);
+        refresh();
+        clear();
+    }
 
-	asked_questions = (int*)malloc(quantity * sizeof(int));
+    asked_questions = (int*)malloc(quantity * sizeof(int));
     for (question_number = 0; question_number < quantity; question_number++) {
         random_question(question_number, asked_questions, &line_number);
         rewind(verb);
