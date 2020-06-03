@@ -14,12 +14,10 @@ EXE = $(BIN)main
 TEST = $(BIN)main_test
 
 .PHONY: all default clean test 
-all: bin build buildt default test run_test
+all: bin build buildt default test
 default: $(EXE) 
 test: $(TEST)
 	$(TEST)
-
-# : $(OBJECTS_TEST)
 $(EXE): $(OBJECTS)
 	$(CC) $(FLAGS)  $(OBJECTS) -o $@ $(LDLIBS)
 $(BUILD)main.o: $(SRC)main.c $(SRC)k.h 
