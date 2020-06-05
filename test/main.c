@@ -84,6 +84,15 @@ CTEST(check_quantity, error_intput)
     ASSERT_EQUAL(expected, result);
 }
 
+CTEST(fill_table, open_file_and_input)
+{
+    int results = 10;
+    int result = fill_table(results);
+	int expected = 0;
+    ASSERT_EQUAL(expected, result);
+}
+
+
 int main(int argc, const char** argv)
 {
     int test_result = ctest_main(argc, argv);

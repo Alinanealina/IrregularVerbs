@@ -120,20 +120,25 @@ int enter_answer(FILE* verb, int* result, int quantity)
     return 0;
 }
 
-int fill_table(int result, int quantity)
+int fill_table(int result)
 {
     FILE* result_table;
     char surname[100];
-    printw("Result: %d/%d\n\t\t\t\t\tEnter your surname: ", result, quantity);
-    refresh();
     result_table = fopen("result_table.txt", "a");
+    if (result_table == NULL) {
+        return 1;
+    }
     getstr(surname);
     if (strncmp(surname, "exit", 4) == 0) {
         return 2;
     }
     refresh();
-    fputs(surname, result_table);
-    fprintf(result_table, " - %d\n", result);
+    if (fputs(surname, result_table) == EOF) {
+        return 1;
+    }
+    if (fprintf(result_table, " - %d\n", result) == EOF) {
+        return 1;
+    }
     refresh();
     fclose(result_table);
     return 0;
@@ -187,21 +192,28 @@ int play_questions()
         clear();
     }
     fclose(verb);
-    fill_table(result, quantity);
+    printw("Result: %d/%d\n\t\t\t\t\tEnter your surname: ", result, quantity);
+    refresh();
+    fill_table(result);
     free(asked_questions);
     asked_questions = NULL;
     return 0;
 }
-void helper()
+
+int helper()
 {
     bkgd(COLOR_PAIR(10));
     refresh();
-    FILE* Helper;
+    FILE* helper;
     char buffer;
-    Helper = fopen("Helper.txt", "r");
-    while ((buffer = getc(Helper)) != EOF) {
+    helper = fopen("Helper.txt", "r");
+    if (helper == NULL ) {
+        return 1;
+    }
+    while ((buffer = getc(helper)) != EOF) {
         printw("%c", buffer);
         refresh();
     }
-    fclose(Helper);
+    fclose(helper);
+    return 0;
 }
