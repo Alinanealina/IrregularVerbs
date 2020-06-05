@@ -120,11 +120,11 @@ int enter_answer(FILE* verb, int* result, int quantity)
     return 0;
 }
 
-int fill_table(int result)
+int fill_table(int result, int quantity)
 {
     FILE* result_table;
     char surname[100];
-    printw("Result: %d/10\n\t\t\t\t\tEnter your surname: ", result);
+    printw("Result: %d/%d\n\t\t\t\t\tEnter your surname: ", result, quantity);
     refresh();
     result_table = fopen("result_table.txt", "a");
     getstr(surname);
@@ -187,7 +187,7 @@ int play_questions()
         clear();
     }
     fclose(verb);
-    fill_table(result);
+    fill_table(result, quantity);
     free(asked_questions);
     asked_questions = NULL;
     return 0;

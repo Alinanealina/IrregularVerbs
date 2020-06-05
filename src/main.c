@@ -1,4 +1,4 @@
-#include "k.h"
+#include "points.h"
 #include <locale.h>
 #include <ncurses.h> //подключаем библиотеку ncurses
 #include <stdio.h>

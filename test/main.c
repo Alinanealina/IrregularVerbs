@@ -1,5 +1,5 @@
 #define CTEST_MAIN
-#include "k.h"
+#include "points.h"
 #include <locale.h>
 #include <ncurses.h>
 #include <stdio.h>
@@ -83,16 +83,6 @@ CTEST(check_quantity, error_intput)
 	int expected = 1;
     ASSERT_EQUAL(expected, result);
 }
-
-
-// CTEST(init_colors, have_color)
-// {
-//     int result = init_colors();
-// 	int expected = 0;
-//     ASSERT_EQUAL(expected, result);
-// }
-
-
 
 int main(int argc, const char** argv)
 {
