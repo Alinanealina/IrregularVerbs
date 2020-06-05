@@ -201,7 +201,7 @@ int helper() {
     return 1;
   }
   while ((buffer = getc(helper)) != EOF) {
-    printw("%c", buffer);
+    printf("%c", buffer);
     refresh();
   }
   fclose(helper);
