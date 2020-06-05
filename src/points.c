@@ -1,4 +1,4 @@
-#include "k.h"
+#include "points.h"
 #include <locale.h>
 #include <ncurses.h>
 #include <stdio.h>
@@ -191,4 +191,17 @@ int play_questions()
     free(asked_questions);
     asked_questions = NULL;
     return 0;
+}
+void helper()
+{
+    bkgd(COLOR_PAIR(10));
+    refresh();
+    FILE* Helper;
+    char buffer;
+    Helper = fopen("Helper.txt", "r");
+    while ((buffer = getc(Helper)) != EOF) {
+        printw("%c", buffer);
+        refresh();
+    }
+    fclose(Helper);
 }

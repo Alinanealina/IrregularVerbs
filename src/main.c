@@ -164,19 +164,6 @@ int init_colors()
     return 0;
 }
 
-void Helper()
-{
-    bkgd(COLOR_PAIR(10));
-    refresh();
-    FILE* Helper;
-    char buffer;
-    Helper = fopen("Helper.txt", "r");
-    while ((buffer = getc(Helper)) != EOF) {
-        printf("%c", buffer);
-    }
-    fclose(Helper);
-}
-
 int main()
 {
     initscr();
@@ -279,7 +266,7 @@ int main()
                 echo();
                 attroff(A_BLINK);
                 attron(COLOR_PAIR(50));
-                Helper();
+                helper();
                 refresh();
                 button = getch();
                 break;

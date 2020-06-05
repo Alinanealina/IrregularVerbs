@@ -20,4 +20,5 @@ void write_answer(FILE* verb, int quantity, char answer[], int result);
 int enter_answer(FILE* verb, int* result, int quantity);
 int fill_table(int result);
 int check_quantity(int *quantity);
+void helper();
 #endif
