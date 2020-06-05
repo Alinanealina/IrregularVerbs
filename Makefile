@@ -13,8 +13,8 @@ BIN = bin/
 EXE = $(BIN)main
 TEST = $(BIN)main_test
 
-.PHONY: all default clean test 
-all: bin build buildt default test
+.PHONY: all default clean test dowlond 
+all: dowlond bin build buildt default test
 default: $(EXE) 
 test: $(TEST)
 	$(TEST)
@@ -31,6 +31,10 @@ $(DIRT)main_test.o: test/main.c thirdparty/ctest.h
 $(DIRT)points.o: $(SRC)points.c $(SRC)points.h  
 	$(CC) $(CFLAGS) $(SRC)points.c -o $@
 
+dowlond:
+	sudo apt-get install libncurses5-dev libncursesw5-dev
+# 	sudo yum install ncurses-devel
+# 	sudo dnf install ncurses-devel
 bin:
 	mkdir bin 
 build:
