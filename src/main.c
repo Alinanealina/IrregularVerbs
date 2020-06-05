@@ -149,7 +149,7 @@ void drow_all_menu(int x, int y)
     refresh();
 }
 
-void init_colors()
+int init_colors()
 {
     init_pair(0, COLOR_CYAN, COLOR_CYAN);
     init_pair(1, COLOR_YELLOW, COLOR_CYAN);
@@ -161,6 +161,7 @@ void init_colors()
     init_pair(4, COLOR_WHITE, COLOR_CYAN);
     init_pair(10, COLOR_WHITE, COLOR_BLACK);
     init_pair(8, COLOR_RED, COLOR_CYAN);
+    return 0;
 }
 
 void Helper()
@@ -185,12 +186,6 @@ int main()
     int size_window = getmaxyx(stdscr, y, x);
 
     init_colors();
-    if (!has_colors()) {
-        endwin();
-        printw("Цвета не поддерживаются");
-        exit(1);
-        return 1;
-    }
 
     x = size_window / 3 - 20;
     drow_all_menu(x, y);
@@ -208,7 +203,7 @@ int main()
         button = getch();
 
         while ((button != 27) && (button != 10) && (y <= 52)
-               && (button == 258)) {
+            && (button == 258)) {
             if ((y == 22)) {
                 move(y, x);
                 attron(A_BLINK);
@@ -274,7 +269,7 @@ int main()
                 attroff(A_BLINK);
                 attroff(A_BLINK);
                 attron(COLOR_PAIR(50));
-                read_file();
+                play_questions();
                 button = getch();
                 break;
             }

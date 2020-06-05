@@ -7,11 +7,11 @@
 #include <time.h>
 #include <unistd.h>
 
-void random_question(
-        int question_number, int asked_questions[], int* line_number)
+int random_question(
+    int question_number, int asked_questions[], int* line_number)
 {
     int flag_repeat,
-            i; // flag_repeat - флаг для распознания повторяющихся вопросов
+        i; // flag_repeat - флаг для распознания повторяющихся вопросов
     int max_questions = 206;
     while (1) {
         flag_repeat = 0;
@@ -26,6 +26,7 @@ void random_question(
             break;
         }
     }
+    return flag_repeat;
 }
 
 void print_question(int line_number, int question_number, FILE* verb)
@@ -52,45 +53,39 @@ void print_question(int line_number, int question_number, FILE* verb)
     refresh();
 }
 
-void check(char answer[20], int* flag_error)
+int check_command(char answer[20], int* flag_error)
 {
-    int max_lenght = 20;
-    for (int i = 0; i < strlen(answer); i++) {
+    int max_lenght = 20, i;
+    for (i = 0; i < strlen(answer); i++) {
         if (((answer[i] < 'a' || answer[i] > 'z') && answer[i] != ' ')
             || strlen(answer) > max_lenght) {
             attron(COLOR_PAIR(8));
-            printw("Error comand. Enter again: ");
-            refresh();
             *flag_error = 1;
-            attroff(COLOR_PAIR(8));
-            break;
         } else {
             *flag_error = 0;
         }
     }
+       return *flag_error; 
 }
 
-int write_and_check_answer(FILE* verb, int* result, int x, int y, int quantity)
+int check_answer(int result, char answer[], char correct[])
 {
-    char symbol, answer[20], correct[20];
-    int lenght_line, i = 0, flag_error = 1, encoding = 4;
-
-    while (flag_error == 1) {
-        getstr(answer);
-        if (strncmp(answer, "exit", 4) == 0) {
-            return 2;
-        }
-        check(answer, &flag_error);
+    int lenght_line = strlen(answer);
+    if (strncmp(correct, answer, lenght_line) == 0) {
+        result = result + 1;
+        refresh();
     }
-    refresh();
+    return result;
+}
 
+void write_answer(FILE* verb, int quantity, char answer[], int result)
+{
+    int encoding = 4, i = 0;
+    char correct[20], symbol;
     while ((symbol = getc(verb)) != '!') {
         printw("%c", symbol);
         refresh();
     }
-
-    y += 7;
-
     while ((symbol = getc(verb)) != '\n') {
         correct[i] = symbol - encoding;
         printw("%c", correct[i]);
@@ -98,15 +93,30 @@ int write_and_check_answer(FILE* verb, int* result, int x, int y, int quantity)
         i++;
     }
     refresh();
-
-    lenght_line = strlen(answer);
-    if (strncmp(correct, answer, lenght_line) == 0) {
-        *result = *result + 1;
-        refresh();
-    }
-    printw("\t\t%d/%d", *result, quantity);
+    printw("\t\t%d/%d", check_answer(result, answer, correct), quantity);
     printw("\n\n");
     refresh();
+}
+
+int enter_answer(FILE* verb, int* result, int quantity)
+{
+    char  answer[20];
+    int flag_error = 1; // flag_error - ошибка ввода
+
+    while (flag_error == 1) {
+        getstr(answer);
+        if (strncmp(answer, "exit", 4) == 0) {
+            return 2;
+        }
+        check_command(answer, &flag_error);
+        if (flag_error == 1) {
+            printw("Error comand. Enter again: ");
+            refresh();
+            attroff(COLOR_PAIR(8));
+        }
+    }
+    refresh();
+    write_answer( verb, quantity, answer, *result);
     return 0;
 }
 
@@ -129,26 +139,32 @@ int fill_table(int result)
     return 0;
 }
 
-int read_file()
+int check_quantity(int *quantity)
+{
+    int max_questions = 206, min_questions = 1;
+    if (*quantity < min_questions || *quantity > max_questions) {
+        return 1;
+    }
+    return 0;
+}
+
+int play_questions()
 {
     echo();
     keypad(stdscr, false);
-    int x = 5, y = 3;
     FILE* verb;
     int* asked_questions;
-    int question_number, line_number = 0, quantity, result = 0,
-                         max_questions = 206, min_questions = 1;
+    int question_number, line_number = 0, quantity, result = 0;
     srand(time(NULL));
     verb = fopen("verbs.txt", "r");
-
+    int x = 5, y = 3;
     move(y, x);
     printw("Enter the number of questions (206 questions limit): ");
     refresh();
     scanw("%d", &quantity);
     refresh();
     clear();
-
-    while (quantity < min_questions || quantity > max_questions) {
+    while( check_quantity(&quantity)) {
         move(y, x);
         attron(COLOR_PAIR(8));
         printw("Incorrect entry, drive correctly!: ");
@@ -158,16 +174,16 @@ int read_file()
         refresh();
         clear();
     }
-
+    
     asked_questions = (int*)malloc(quantity * sizeof(int));
     for (question_number = 0; question_number < quantity; question_number++) {
         random_question(question_number, asked_questions, &line_number);
         rewind(verb);
         print_question(line_number, question_number, verb);
-        if (write_and_check_answer(verb, &result, x, y, quantity) == 2) {
+        if (enter_answer(verb, &result, quantity) == 2) {
             return 0;
         }
-        sleep(1);
+        getch();
         clear();
     }
     fclose(verb);
